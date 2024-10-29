@@ -1,0 +1,1 @@
+ /Users/fauzariawan/project/HMA\ App/HMA-App/.dart_tool/flutter_build/985c95b08f684dd6dee82ef1969a623d/native_assets.yaml: 
